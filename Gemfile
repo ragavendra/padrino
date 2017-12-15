@@ -23,6 +23,7 @@ gem 'sass'
 gem 'haml'
 gem 'sqlite3'
 gem 'sequel'
+gem 'builder'
 
 # Test requirements
 gem 'rspec', :group => 'test'
